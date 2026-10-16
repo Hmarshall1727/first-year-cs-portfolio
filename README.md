@@ -14,3 +14,6 @@ This repository collects selected evidence of my first-year Computer Science lea
 
 ## Reflection
 I am learning to document not only the final answer, but also the steps I used to solve problems. I also do not have prior experience in programming (except for a single day in Year 8 Computing), I am to gain the skills I want in programming.
+
+## Next improvement
+Adding some of the basics I did such as the small program I developed using a dictionary in Python.
