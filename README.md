@@ -3,7 +3,7 @@
 This repository collects selected evidence of my first-year Computer Science learning.
 ## Skills shown
 - Writing simple programs
-- The Basics of python
+- The Basics of Python
 
 ## Contents
 | Folder | What it shows |
